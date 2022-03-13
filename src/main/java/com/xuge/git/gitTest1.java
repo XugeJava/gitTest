@@ -8,5 +8,6 @@ public class gitTest1 {
   public static void main(String[] args) {
     System.out.println("my first git demo!!");
     System.out.println("my second git demo!");
+    System.out.println("my second git3 demo!");
   }
 }
